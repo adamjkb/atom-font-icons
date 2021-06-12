@@ -1,0 +1,81 @@
+{
+  "fonts": [
+    {
+      "id": "Octicons-v4-4-0",
+      "src": [
+        {
+          "path": "./assets/octicons.woff2",
+          "format": "woff2"
+        }
+      ],
+      "weight": "normal",
+      "size": "133.33%",
+      "style": "normal"
+    }
+  ],
+  "iconDefinitions": {
+    "_file": {
+      "fontId": "Octicons-v4-4-0",
+      "fontColor": "currentColor",
+      "fontCharacter": "\\f011"
+    },
+    "_file_pdf": {
+      "fontId": "Octicons-v4-4-0",
+      "fontColor": "currentColor",
+      "fontCharacter": "\\f014"
+    },
+    "_root": {
+      "fontId": "Octicons-v4-4-0",
+      "fontColor": "currentColor",
+      "fontCharacter": "\\f001"
+    },
+    "_folder": {
+      "fontId": "Octicons-v4-4-0",
+      "fontColor": "currentColor",
+      "fontCharacter": "\\f016"
+    },
+    "_file_doc": {
+      "fontId": "Octicons-v4-4-0",
+      "fontColor": "currentColor",
+      "fontCharacter": "\\f007"
+    },
+    "_file_media": {
+      "fontId": "Octicons-v4-4-0",
+      "fontColor": "currentColor",
+      "fontCharacter": "\\f012"
+    },
+    "_file_zip": {
+      "fontId": "Octicons-v4-4-0",
+      "fontColor": "currentColor",
+      "fontCharacter": "\\f013"
+    },
+  },
+  "folder": "_folder",
+  "file": "_file",
+  "rootFolder": "_root",
+  "fileExtensions": {
+    "gif": "_file_media",
+    "jpeg": "_file_media",
+    "jpg": "_file_media",
+    "png": "_file_media",
+    "pdf": "_file_pdf",
+    "zip": "_file_zip",
+    "tar": "_file_zip",
+    "xz": "_file_zip",
+    "zst": "_file_zip",
+    "gz": "_file_zip",
+    "7z": "_file_zip",
+    "lz": "_file_zip",
+    "lz4": "_file_zip",
+    "lzma": "_file_zip",
+    "lzo": "_file_zip",
+    "bz2": "_file_zip",
+    "cpio": "_file_zip",
+    "crx": "_file_zip",
+    "jar": "_file_zip",
+    "war": "_file_zip"
+  },
+  "fileNames": {
+    "readme.md": "_file_doc"
+  }
+}

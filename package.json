@@ -1,0 +1,48 @@
+{
+  "name": "atom-font-icons",
+  "displayName": "Atom Font Icons",
+  "description": "Atom file and folder icons for VS Code",
+  "version": "1.0.0",
+  "publisher": "adamjkb",
+  "license": "MIT",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "atom",
+    "icons",
+    "icon",
+    "one dark",
+    "file",
+    "folder"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "atom-font-icons",
+        "label": "Atom Font Icons",
+        "path": "./fileicons/atom-font-icon-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#21252B",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "author": {
+    "name": "adamjkb"
+  },
+  "bugs": {
+    "url": "https://github.com/adamjkb/atom-font-icons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamjkb/atom-font-icons.git"
+  },
+  "homepage": "https://github.com/adamjkb/atom-font-icons/blob/master/README.md"
+}
