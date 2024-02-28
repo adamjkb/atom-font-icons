@@ -1,6 +1,6 @@
 # Atom Font Icons
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/adamjkb.atom-font-icons.svg)](https://marketplace.visualstudio.com/items?itemName=adamjkb.atom-font-icons)
+[![Version](https://vsmarketplacebadges.dev/version/adamjkb.atom-font-icons.svg)](https://marketplace.visualstudio.com/items?itemName=adamjkb.atom-font-icons)
 
 Atom One Dark icon theme for VS Code using font icons and `currentColor` attribute to reflect Atom's original icon behaviour. 
 
